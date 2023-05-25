@@ -1,0 +1,16 @@
+.cardDiv{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}   
+
+.card{
+    margin: 10px;
+}
+
+.spinnerDiv{
+    position: absolute;
+    margin-top: 50vh;
+    margin-left: 50vw;
+}
